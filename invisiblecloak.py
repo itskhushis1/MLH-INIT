@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import time
 
+
 # replace the red pixels ( or undesired area ) with
 # background pixels to generate the invisibility feature.
 
